@@ -1,3 +1,7 @@
+.. role:: math(raw)
+   :format: html latex
+..
+
 各章脚注
 ========
 
@@ -21,20 +25,16 @@
    5、6
    章将会具体介绍此类的宏观经济学基准模型，在模型中某些市场会呈现出“失灵”。
 
-6. Readers will find useful the essay “Modern Macroeconomic Models” by
-   Narayana Kocherlakota, president of the Federal Reserve Bank of
-   Minneapolis, from which thequotation at the outset was taken. It
-   covers at a high level some of the same ground asthis book,
-   especially chapters 4 and 5.
+6. 读者可参考明尼阿波利斯联邦储备银行主席 Kocherlakota
+   的《作为经济政策分析工具的现代宏观经济模型》一文，亦即本章卷首语的出处。该文与本书（特别是第
+   4、5 两章）所讨论内容的相关度很高。
 
-1 The Modern Macroeconomic Approach and the Arrow-Debreu-McKenzie Model
------------------------------------------------------------------------
+1 现代宏观经济学研究方法与 ADM 模型
+-----------------------------------
 
-\\1. I recommend, as a start, McCloskey’s The Rhetoric of Economics
-(1985). \\2. See Ely (2010a) for an emphasis of the point that “every
-good theorist assumes his
+1. 我推荐的入门读物是 McCloskey 1985 年出版的《经济学的花言巧语》。
 
-conclusions.”
+2. 参见 Ely (2010a)，文章强调“每个好的理论家的结论都是他假设出来的”。
 
 \\3. This general problem, of verisimilitude, may apply to other
 disciplines as well;I simply do not know enough to say.
@@ -952,8 +952,8 @@ in living standards over time within a country.34. See e.g., Romer
 (2011).
 
 \\35. This is because at this growth rate, average US income in 2046
-will be roughly$100,000 (in current dollars), while average European
-income will be $80,000.
+will be
+roughly\ :math:`100,000 (in current dollars), while average European income will be `\ 80,000.
 
 \\36. A rather accessible, largely nontechnical exposition of the facts
 surrounding differ-ences in hours worked is given by Rogerson (2006).
@@ -1199,17 +1199,19 @@ maintaining a doctor’s office in a quiet
 
 Notes to Chapter 6 387
 
-office park was $100,000. And let’s say that the same business next door
-to a confectionerwould be worth less: $60,000. Now let’s say that a
-confectionery generates profits eachyear that make it worth $70,000 as a
-“going concern” no matter where it is located, butto move it far away
-from the city costs $30,000. The owner of both enterprises wouldthink
-carefully about the costs and benefits of moving the businesses apart—it
-mightraise her profits. If they were initially next door to each other,
-what should she do?Leaving them in place makes the total value of both
-businesses $130,000 ($60,000 +$70,000). If they were apart, they’d be
-worth $170,000. Clearly, then, the owner shouldmove the confectionery:
-it costs $30,000 to do so, but generates $40,000 in extra value.We can
+office park was
+:math:`100,000. And let’s say that the same business next door to a confectionerwould be worth less: `\ 60,000.
+Now let’s say that a confectionery generates profits eachyear that make
+it worth
+:math:`70,000 as a “going concern” no matter where it is located, butto move it far away from the city costs `\ 30,000.
+The owner of both enterprises wouldthink carefully about the costs and
+benefits of moving the businesses apart—it mightraise her profits. If
+they were initially next door to each other, what should she do?Leaving
+them in place makes the total value of both businesses
+:math:`130,000 (`\ 60,000
++\ :math:`70,000). If they were apart, they’d be worth `\ 170,000.
+Clearly, then, the owner shouldmove the confectionery: it costs
+:math:`30,000 to do so, but generates `\ 40,000 in extra value.We can
 hopefully agree that this is the efficient thing (certainly in the
 narrow sensethat it makes production more valuable and, by presumption,
 leaves consumersunaffected).
@@ -1221,29 +1223,22 @@ each other), and that these owners do notinherently share any interest
 in maximizing the collective value of both businesses. Andlet’s add that
 the law has taken a position on who is “liable” for compensating the
 otherfor the damage caused to the other. Perhaps most naturally, let’s
-say that the law requiresthe confectioner to pay the doctor $40,000 in
-compensation to offset the reduction inthe doctor’s franchise. Under
-these rules, what would the confectioner do? He wouldmove: it is worth
-paying $30,000 (his moving cost) to save $40,000 in payments to aguy he
-doesn’t like anyway. Alternatively, what if the law ignored them, asking
-thedoctor to “just deal with it” by not obligating the confectioner to
-make any payments atall? Would the same result ensue? It depends. If the
-two parties could agree to find asolution that made the value of both
-firms together as high as possible, they’d then beable to split the
-gains in ways that left both better off. In this instance, the doctor
-mightpay the confectioner $30,001 to get lost. The confectionery would
-take the money andrun, and the doctor too would come out ahead—since the
-value of his business jumpsby $9,999 (the $40,000 gain because he no
-longer has any noise less the $30,001 paymenthe makes to “Wonka”).
-Critically, the eventual location of each business is the same, andthe
-total value of both businesses is exactly as if the same person owned
-both businesses:$140,000 ($100,000 noise-free doctor’s office, $70,000
-confectionery, minus $30,000 inmoving costs), with the only difference
-being who has to pay for this to happen. If theycould not negotiate with
-each other (perhaps because they have miscommunications andhave reached
-some point of no return), then we cannot be assured of any such
-outcome—and it can easily be the case that the parties miss
-opportunities to make themselves bothbetter off.
+say that the law requiresthe confectioner to pay the doctor
+:math:`40,000 in compensation to offset the reduction inthe doctor’s franchise. Under these rules, what would the confectioner do? He wouldmove: it is worth paying `\ 30,000
+(his moving cost) to save
+:math:`40,000 in payments to aguy he doesn’t like anyway. Alternatively, what if the law ignored them, asking thedoctor to “just deal with it” by not obligating the confectioner to make any payments atall? Would the same result ensue? It depends. If the two parties could agree to find asolution that made the value of both firms together as high as possible, they’d then beable to split the gains in ways that left both better off. In this instance, the doctor mightpay the confectioner `\ 30,001
+to get lost. The confectionery would take the money andrun, and the
+doctor too would come out ahead—since the value of his business jumpsby
+:math:`9,999 (the `\ 40,000 gain because he no longer has any noise less
+the
+:math:`30,001 paymenthe makes to “Wonka”). Critically, the eventual location of each business is the same, andthe total value of both businesses is exactly as if the same person owned both businesses:`\ 140,000
+(:math:`100,000 noise-free doctor’s office, `\ 70,000 confectionery,
+minus $30,000 inmoving costs), with the only difference being who has to
+pay for this to happen. If theycould not negotiate with each other
+(perhaps because they have miscommunications andhave reached some point
+of no return), then we cannot be assured of any such outcome—and it can
+easily be the case that the parties miss opportunities to make
+themselves bothbetter off.
 
 \\14. Farrell (1987) is very useful on the extent to which the
 implications of Coase for policyverge on the tautological. In essence,

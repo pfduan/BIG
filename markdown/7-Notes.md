@@ -7,14 +7,12 @@
 3. 参见诺奖得主 Paul Krugman 于 2009 年 9 月 2 日发表于《纽约时报》上的文章《经济学家为何会错得如此离谱？》http://www.nytimes.com/2009/09/06/magazine/06Economic-t.html
 4. 如果对基础知识的介绍让您觉得冗长，请接受我的道歉。但是也请您仔细辨别一下您是属于哪个读者群体，看看您是否有按照我的建议掠过了您已经懂得的部分。
 5. 参见记者  John Cassidy 出版于 2009 年的《市场是如何失灵的》一书。在经济学里，市场“失灵”的精确含义是：市场的结果不满足所谓的帕累托意义上的效率。本书第 5、6 章将会具体介绍此类的宏观经济学基准模型，在模型中某些市场会呈现出“失灵”。
-6. Readers will find useful the essay “Modern Macroeconomic Models” by Narayana Kocherlakota, president of the Federal Reserve Bank of Minneapolis, from which thequotation at the outset was taken. It covers at a high level some of the same ground asthis book, especially chapters 4 and 5.
+6. 读者可参考明尼阿波利斯联邦储备银行主席 Kocherlakota 的《作为经济政策分析工具的现代宏观经济模型》一文，亦即本章卷首语的出处。该文与本书（特别是第 4、5 两章）所讨论内容的相关度很高。
 
-## 1 The Modern Macroeconomic Approach and the Arrow-Debreu-McKenzie Model
+## 1 现代宏观经济学研究方法与 ADM 模型
 
-\1. I recommend, as a start, McCloskey’s The Rhetoric of Economics (1985).
-\2. See Ely (2010a) for an emphasis of the point that “every good theorist assumes his
-
-conclusions.”
+1. 我推荐的入门读物是 McCloskey 1985 年出版的《经济学的花言巧语》。
+2. 参见 Ely (2010a)，文章强调“每个好的理论家的结论都是他假设出来的”。
 
 \3. This general problem, of verisimilitude, may apply to other disciplines as well;I simply do not know enough to say.
 
