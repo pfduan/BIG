@@ -14,14 +14,7 @@ Contents:
    0a-acknowledgments
    0b-introduction
    1-ADM
-   2-Welfare
-   3-Inequality
-   4-Shortcuts
-   5-Models
-   6-Crisis
    7-Notes
-   8-References
-   9-Index
 
 
 
