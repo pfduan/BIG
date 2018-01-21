@@ -14,7 +14,12 @@ Contents:
    0a-acknowledgments
    0b-introduction
    1-ADM
-   7-Notes
+   2-price
+   3-inequality
+   4-shortcut
+   5-models
+   6-crisis
+   7-notes
 
 
 

@@ -1,36 +1,30 @@
-.. role:: math(raw)
-   :format: html latex
-..
-
 各章脚注
-========
 
 导言
-----
 
 1. Narayana
-   Kocherlakota，《作为经济政策分析工具的现代宏观经济模型》，\ http://www.minneapolisfed.org/pubs/region/10-05/2009_mplsfed_annualreport_essay.pdf
+Kocherlakota，《作为经济政策分析工具的现代宏观经济模型》，http://www.minneapolisfed.org/pubs/region/10-05/2009\_mplsfed\_annualreport\_essay.pdf
 
 2. 比如，美国众议院科学和技术委员会于 2010 年 7 月 10
-   日召开了主题为”建立服务于真实世界的经济科学“的听证会。让宏观经济学者们不开心的是，我们所做的工作，从来不曾偏离过这个主题啊。那好吧。听证会的记录参见
-   http://economistsview.typepad.com/economistsview/2010/07/building-a-science-of-economics-for-the-real-world.html
+日召开了主题为”建立服务于真实世界的经济科学“的听证会。让宏观经济学者们不开心的是，我们所做的工作，从来不曾偏离过这个主题啊。那好吧。听证会的记录参见
+http://economistsview.typepad.com/economistsview/2010/07/building-a-science-of-economics-for-the-real-world.html
 
 3. 参见诺奖得主 Paul Krugman 于 2009 年 9 月 2
-   日发表于《纽约时报》上的文章《经济学家为何会错得如此离谱？》\ http://www.nytimes.com/2009/09/06/magazine/06Economic-t.html
+日发表于《纽约时报》上的文章《经济学家为何会错得如此离谱？》http://www.nytimes.com/2009/09/06/magazine/06Economic-t.html
 
-4. 如果对基础知识的介绍让您觉得冗长，请接受我的道歉。但是也请您仔细辨别一下您是属于哪个读者群体，看看您是否有按照我的建议掠过了您已经懂得的部分。
+4.
+如果对基础知识的介绍让您觉得冗长，请接受我的道歉。但是也请您仔细辨别一下您是属于哪个读者群体，看看您是否有按照我的建议掠过了您已经懂得的部分。
 
 5. 参见记者 John Cassidy 出版于 2009
-   年的《市场是如何失灵的》一书。在经济学里，市场“失灵”的精确含义是：市场的结果不满足所谓的帕累托意义上的效率。本书第
-   5、6
-   章将会具体介绍此类的宏观经济学基准模型，在模型中某些市场会呈现出“失灵”。
+年的《市场是如何失灵的》一书。在经济学里，市场“失灵”的精确含义是：市场的结果不满足所谓的帕累托意义上的效率。本书第
+5、6
+章将会具体介绍此类的宏观经济学基准模型，在模型中某些市场会呈现出“失灵”。
 
 6. 读者可参考明尼阿波利斯联邦储备银行主席 Kocherlakota
-   的《作为经济政策分析工具的现代宏观经济模型》一文，亦即本章卷首语的出处。该文与本书（特别是第
-   4、5 两章）所讨论内容的相关度很高。
+的《作为经济政策分析工具的现代宏观经济模型》一文，亦即本章卷首语的出处。该文与本书（特别是第
+4、5 两章）所讨论内容的相关度很高。
 
 1 现代宏观经济学研究方法与 ADM 模型
------------------------------------
 
 1. 我推荐的入门读物是 McCloskey 1985 年出版的《经济学的花言巧语》。
 
@@ -264,7 +258,7 @@ would be socially beneficial.
 \\14. The reader will find useful the perspective given in Kenneth
 Arrow’s speech “LeonidHurwicz: An Appreciation,” delivered January 3,
 2009, and found at
-http://www.econ.umn.edu/news/hurwicz/arrow_on_hurwicz.pdf. See
+http://www.econ.umn.edu/news/hurwicz/arrow\_on\_hurwicz.pdf. See
 especially the discussion onpages 3–4.
 
 \\15. If you know some linear algebra, read on. In infinite dimensions,
@@ -864,7 +858,7 @@ at least one input to production being completely fixed (in Malthus’s
 case, this was land)and the positive dependence of the population growth
 rate on the average income ofworkers. See the excellent set of lecture
 notes available on Stephen Parente’s
-website:\ https://netfiles.uiuc.edu/parente/Econ509/Chapter_Malthusian_Model.pdf
+website:https://netfiles.uiuc.edu/parente/Econ509/Chapter\_Malthusian\_Model.pdf
 
 \\18. Easterly (2001), ch. 4, describes this effectively.
 
@@ -945,15 +939,17 @@ ways to go in this quest eventoday, and this, and its cousin “growth,”
 dominate all other concerns macroeconomistsshould have.
 
 \\32. Arthur Okun (1975) talks about “trickle-down” in ways related to
-my use of it. \\33. I was led to this observation by the related idea in
-Frank (1991), ch. 18, on the rise
+my use of it.
+
+\\33. I was led to this observation by the related idea in Frank (1991),
+ch. 18, on the rise
 
 in living standards over time within a country.34. See e.g., Romer
 (2011).
 
 \\35. This is because at this growth rate, average US income in 2046
-will be
-roughly\ :math:`100,000 (in current dollars), while average European income will be `\ 80,000.
+will be roughly100,000 (in current dollars), while average European
+income will be 80,000.
 
 \\36. A rather accessible, largely nontechnical exposition of the facts
 surrounding differ-ences in hours worked is given by Rogerson (2006).
@@ -986,8 +982,8 @@ conceptionof competition allowing—or actually forcing—innovation. An
 ongoing blog thatfrequently provides thoughtful assessments of models of
 innovative processes (andmany others—including excellent discussions of
 the financial crisis) is A Fine
-Theorem,\ http://afinetheorem.wordpress.com/. (Full disclosure: I know
-the anonymous authorpersonally).
+Theorem,http://afinetheorem.wordpress.com/. (Full disclosure: I know the
+anonymous authorpersonally).
 
 \\40. Recall Robert Frank’s trucking example that I footnoted in chapter
 2 when I discussedthe “informational role of prices.”
@@ -1129,7 +1125,7 @@ economic status. It
 386 Notes to Chapter 6
 
 can be found on the Federal Reserve Bank of Minneapolis website at
-http://www.minneapolisfed.org/publications_papers/pub_display.cfm?id=3278.
+http://www.minneapolisfed.org/publications\_papers/pub\_display.cfm?id=3278.
 
 6 Macroeconomic Theory and Recent Events
 
@@ -1183,7 +1179,7 @@ therein, will be useful to the interested reader.
 \\11. See the recent book of the economist John Taylor (2009), and a
 detailed and probingreview of it by John Cochrane, available on his blog
 “The Grumpy Economist,” June14, 2012,
-http://johnhcochrane.blogspot.com/2012/06/taylors-first-principles.html\ (accessed
+http://johnhcochrane.blogspot.com/2012/06/taylors-first-principles.html(accessed
 March 6, 2013).
 
 \\12. A recent speech by the president of my employer, the Federal
@@ -1191,7 +1187,7 @@ Reserve Bank of Rich-mond, describes two opposing views of financial
 instability: inherent fragility (of theDiamond and Dybvig type) or
 induced fragility (created by policymaker promises tohelp distressed
 institutions). The speech is available at
-http://www.richmondfed.org/press_room/speeches/president_jeff_lacker/2013/lacker_speech_20130212.cfm.
+http://www.richmondfed.org/press\_room/speeches/president\_jeff\_lacker/2013/lacker\_speech\_20130212.cfm.
 
 \\13. Let’s be concrete with another example (go back to chapter 2 if
 you wish to reviewthe other ones I gave). Let’s say that the value of
@@ -1199,22 +1195,20 @@ maintaining a doctor’s office in a quiet
 
 Notes to Chapter 6 387
 
-office park was
-:math:`100,000. And let’s say that the same business next door to a confectionerwould be worth less: `\ 60,000.
-Now let’s say that a confectionery generates profits eachyear that make
-it worth
-:math:`70,000 as a “going concern” no matter where it is located, butto move it far away from the city costs `\ 30,000.
-The owner of both enterprises wouldthink carefully about the costs and
-benefits of moving the businesses apart—it mightraise her profits. If
-they were initially next door to each other, what should she do?Leaving
-them in place makes the total value of both businesses
-:math:`130,000 (`\ 60,000
-+\ :math:`70,000). If they were apart, they’d be worth `\ 170,000.
-Clearly, then, the owner shouldmove the confectionery: it costs
-:math:`30,000 to do so, but generates `\ 40,000 in extra value.We can
-hopefully agree that this is the efficient thing (certainly in the
-narrow sensethat it makes production more valuable and, by presumption,
-leaves consumersunaffected).
+office park was 100,000. And let’s say that the same business next door
+to a confectionerwould be worth less: 60,000. Now let’s say that a
+confectionery generates profits eachyear that make it worth 70,000 as a
+“going concern” no matter where it is located, butto move it far away
+from the city costs 30,000. The owner of both enterprises wouldthink
+carefully about the costs and benefits of moving the businesses apart—it
+mightraise her profits. If they were initially next door to each other,
+what should she do?Leaving them in place makes the total value of both
+businesses 130,000 (60,000 +70,000). If they were apart, they’d be worth
+170,000. Clearly, then, the owner shouldmove the confectionery: it costs
+30,000 to do so, but generates 40,000 in extra value.We can hopefully
+agree that this is the efficient thing (certainly in the narrow
+sensethat it makes production more valuable and, by presumption, leaves
+consumersunaffected).
 
 Now think of a setting in which the businesses are indeed next door to
 each other,and each business is run instead by a single owner (a
@@ -1223,22 +1217,29 @@ each other), and that these owners do notinherently share any interest
 in maximizing the collective value of both businesses. Andlet’s add that
 the law has taken a position on who is “liable” for compensating the
 otherfor the damage caused to the other. Perhaps most naturally, let’s
-say that the law requiresthe confectioner to pay the doctor
-:math:`40,000 in compensation to offset the reduction inthe doctor’s franchise. Under these rules, what would the confectioner do? He wouldmove: it is worth paying `\ 30,000
-(his moving cost) to save
-:math:`40,000 in payments to aguy he doesn’t like anyway. Alternatively, what if the law ignored them, asking thedoctor to “just deal with it” by not obligating the confectioner to make any payments atall? Would the same result ensue? It depends. If the two parties could agree to find asolution that made the value of both firms together as high as possible, they’d then beable to split the gains in ways that left both better off. In this instance, the doctor mightpay the confectioner `\ 30,001
-to get lost. The confectionery would take the money andrun, and the
-doctor too would come out ahead—since the value of his business jumpsby
-:math:`9,999 (the `\ 40,000 gain because he no longer has any noise less
-the
-:math:`30,001 paymenthe makes to “Wonka”). Critically, the eventual location of each business is the same, andthe total value of both businesses is exactly as if the same person owned both businesses:`\ 140,000
-(:math:`100,000 noise-free doctor’s office, `\ 70,000 confectionery,
-minus $30,000 inmoving costs), with the only difference being who has to
-pay for this to happen. If theycould not negotiate with each other
-(perhaps because they have miscommunications andhave reached some point
-of no return), then we cannot be assured of any such outcome—and it can
-easily be the case that the parties miss opportunities to make
-themselves bothbetter off.
+say that the law requiresthe confectioner to pay the doctor 40,000 in
+compensation to offset the reduction inthe doctor’s franchise. Under
+these rules, what would the confectioner do? He wouldmove: it is worth
+paying 30,000 (his moving cost) to save 40,000 in payments to aguy he
+doesn’t like anyway. Alternatively, what if the law ignored them, asking
+thedoctor to “just deal with it” by not obligating the confectioner to
+make any payments atall? Would the same result ensue? It depends. If the
+two parties could agree to find asolution that made the value of both
+firms together as high as possible, they’d then beable to split the
+gains in ways that left both better off. In this instance, the doctor
+mightpay the confectioner 30,001 to get lost. The confectionery would
+take the money andrun, and the doctor too would come out ahead—since the
+value of his business jumpsby 9,999 (the 40,000 gain because he no
+longer has any noise less the 30,001 paymenthe makes to “Wonka”).
+Critically, the eventual location of each business is the same, andthe
+total value of both businesses is exactly as if the same person owned
+both businesses:140,000 (100,000 noise-free doctor’s office, 70,000
+confectionery, minus $30,000 inmoving costs), with the only difference
+being who has to pay for this to happen. If theycould not negotiate with
+each other (perhaps because they have miscommunications andhave reached
+some point of no return), then we cannot be assured of any such
+outcome—and it can easily be the case that the parties miss
+opportunities to make themselves bothbetter off.
 
 \\14. Farrell (1987) is very useful on the extent to which the
 implications of Coase for policyverge on the tautological. In essence,
