@@ -50,7 +50,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Big-Ideas-in-Macro'
-copyright = '2017, duanpf'
+copyright = '2018, duanpf'
 author = 'duanpf'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -58,7 +58,7 @@ author = 'duanpf'
 # built documents.
 #
 # The short X.Y version.
-version = '20170113'
+version = '20180121'
 # The full version, including alpha/beta/rc tags.
 release = '20170113'
 
