@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   0a-acknowledgments
+   0a-acknowledgements
    0b-introduction
    1-ADM
    2-price
