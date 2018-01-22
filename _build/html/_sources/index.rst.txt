@@ -19,7 +19,7 @@ Contents:
    4-shortcut
    5-models
    6-crisis
-   7-Notes
+   7-notes
 
 
 
