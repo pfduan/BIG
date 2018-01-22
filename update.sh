@@ -13,5 +13,5 @@ make html
 git init
 git add .
 git commit -m “macbook”
-git remote add origin https://github.com/pfduan/BIG
+% git remote add origin https://github.com/pfduan/BIG
 git push origin master
