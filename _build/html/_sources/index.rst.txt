@@ -13,13 +13,13 @@ Contents:
 
    0a-acknowledgements
    0b-introduction
-   1-ADM
-   2-price
-   3-inequality
-   4-shortcut
-   5-models
-   6-crisis
-   7-notes
+..   1-ADM
+..   2-price
+..   3-inequality
+..   4-shortcut
+..   5-models
+..   6-crisis
+..   7-notes
 
 
 
